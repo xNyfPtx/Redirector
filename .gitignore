@@ -1,7 +1,6 @@
 *.xpi
 *.DS_Store
 *.zip
-build/*
 ffox.sh
 devprofile/*
 debug.sh
